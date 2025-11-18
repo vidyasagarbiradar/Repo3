@@ -4,3 +4,6 @@ sum = a + b
 print("Sum:", sum)
 a, b = 4, 6
 print(a * b)
+a, b = 10, 5
+print(a - b)
+
